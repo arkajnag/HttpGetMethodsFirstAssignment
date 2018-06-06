@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3007" started-at="2018-05-31T07:17:15Z" finished-at="2018-05-31T07:17:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3007" started-at="2018-05-31T07:17:15Z" finished-at="2018-05-31T07:17:18Z">
+      <class name="com.httpMethods.qa.RestClientTestCases.HttpMethodGetTestCase">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.httpMethods.qa.RestClientTestCases.HttpMethodGetTestCase@68be2bc2]" name="SetUp" is-config="true" duration-ms="6" started-at="2018-05-31T07:17:15Z" finished-at="2018-05-31T07:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="GetMethodCallTestCase()[pri:0, instance:com.httpMethods.qa.RestClientTestCases.HttpMethodGetTestCase@68be2bc2]" name="GetMethodCallTestCase" duration-ms="2968" started-at="2018-05-31T07:17:15Z" finished-at="2018-05-31T07:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetMethodCallTestCase -->
+      </class> <!-- com.httpMethods.qa.RestClientTestCases.HttpMethodGetTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
